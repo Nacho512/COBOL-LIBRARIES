@@ -5,7 +5,7 @@
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. PRUEBAS2.
+       PROGRAM-ID. TEST.
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
        REPOSITORY.
@@ -209,10 +209,8 @@
 
            DISPLAY SPACES
 
-
-
            ACCEPT OMITTED
 
            STOP RUN RETURNING 2.
 
-       END PROGRAM PRUEBAS2.
+       END PROGRAM TEST.
